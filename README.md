@@ -31,7 +31,7 @@ How to Run the Project
 
 Clone the Repository:
 
-git clone https://github.com/username/Iris-Flower-Classification.git
+git clone: https://github.com/Rakshithavr27/Iris-Flower-Classification.git
 
 Navigate to the Project Directory:
 
